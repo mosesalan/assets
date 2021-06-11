@@ -1,0 +1,9 @@
+   "name": "Peppa Network",
+    "website": "https://peppa.network",
+    "description": "Peppa Network is an innovative new cryptocurrency designed by enthusiasts for blockchain technology and children’s development, with 51k users",
+    "explorer": "https://bscscan.com/token/0x6d34f621d2a1812434ce7af6e04a344bfce9b47e",
+    "type": "BEP20",
+    "symbol": "PEPPA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6d34f621d2a1812434ce7af6e04a344bfce9b47e"
